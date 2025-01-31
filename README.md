@@ -1,6 +1,8 @@
 # Taller 1
 Entrega de taller 1 de repaso Scripting.
 
+Rey Valentin Arias Perez
+
 ## Ejercicios
 
 ### Practicos
@@ -56,7 +58,7 @@ using System;
   }
 ```
 
-### Salida
+#### Salida
 
 ![alt text](image-2.png)
 
@@ -88,7 +90,7 @@ class ReemplazarNumerosNegativosMatriz
 }
 ```
 
-### Salida
+#### Salida
 
 ![alt text](image-5.png)
 
@@ -130,7 +132,7 @@ class ValidarCadenaConNumerosEnteros
 }
 ```
 
-### Salida
+#### Salida
 
 ![alt text](image-6.png)
 
@@ -176,7 +178,7 @@ public class ComprobarPalindromoRecursivo
 }
 ```
 
-### Salida
+#### Salida
 
 ![alt text](image-7.png)
 ![alt text](image-8.png)
@@ -224,7 +226,7 @@ public class ImplementarFirmas
 }
 ```
 
-### Salida
+#### Salida
 
 ![alt text](image-9.png)
 
@@ -391,7 +393,6 @@ grep GET access.log
 
 grep = global regular expression print
 
-
 14. 🐞 Print all files in the current directory, one per line (not the path, just the filename) that contain the string "500".
 
 ### Respuesta:
@@ -478,7 +479,7 @@ tr = translate
 ```bash
 printf "%d " {1..100}
 ```
-"
+
 "%d " = formato de impresion para numeros enteros.
 
 {1..100} = Genera una secuencia de números del 1 al 100.
@@ -638,7 +639,7 @@ grep -c $'\t' file-with-tabs.txt
 
 -c = cuente el número de líneas que coinciden con el patrón.
 
-$'\t' = representa el tab.
+\$'\t' = representa el tab.
 
 39. 🌺 There are files in this challenge with different file extensions.
 
@@ -675,7 +676,6 @@ Print all the IPv4 listening ports sorted from the higher to lower.
 ```bash
 awk '/tcp .*LISTEN$/{print $4}' netstat*|awk -F: '{print $2}'|sort -nr
 ```
-#
 
 ![alt text](image-1.png)
 
@@ -692,6 +692,10 @@ int resultado = Sumar(1, 2);
 Console.WriteLine(resultado);
 ```
 
+#### Salida
+
+![alt text](image-10.png)
+
 ### 2. 
 ```c#
 void Aumento(ref int valor)
@@ -703,6 +707,9 @@ int numero = 5;
 Aumento(ref numero);
 Console.WriteLine(numero);
 ```
+
+#### Salida
+![alt text](image-11.png)
 
 ### 3. 
 ```c#
@@ -718,6 +725,10 @@ ComprobarEdad(15);
 ComprobarEdad(22);
 ```
 
+#### Salida
+
+![alt text](image-12.png)
+
 ### 4. 
 ```c#
 void AplicarOperacion(int[] numeros, Func<int, int> operacion)
@@ -731,6 +742,10 @@ void AplicarOperacion(int[] numeros, Func<int, int> operacion)
 int[] nums = { 1, 2, 3, 4, 5 };
 AplicarOperacion(nums, x => x * x);
 ```
+
+#### Salida
+
+![alt text](image-13.png)
 
 ### 5. 
 ```c#
@@ -746,6 +761,10 @@ foreach (var numerop in pares)
 }
 ```
 
+#### Salida
+
+![alt text](image-14.png)
+
 ### 6. 
 ```c#
 void Escribir()
@@ -756,6 +775,10 @@ void Escribir()
 Escribir();
 ```
 
+#### Salida
+
+![alt text](image-15.png)
+
 ### 7. 
 ```c#
 string CrearMensaje(string saludo, string nombre)
@@ -763,9 +786,13 @@ string CrearMensaje(string saludo, string nombre)
     return $"{saludo}, {nombre}!";
 }
 
-string mensaje = CrearMensaje(saludo: "Hola", nombre: "Emanuel");
+string mensaje = CrearMensaje(saludo: "Hola", nombre: "Valentin");
 Console.WriteLine(mensaje);
 ```
+
+#### Salida
+
+![alt text](image-16.png)
 
 ### 8. 
 ```c#
@@ -777,6 +804,10 @@ List<int> ListaNumeros()
 List<int> miLista = ListaNumeros();
 miLista.ForEach(Console.WriteLine);
 ```
+
+#### Salida
+
+![alt text](image-17.png)
 
 ### 9. 
 ```c#
@@ -796,6 +827,10 @@ int resultadoFactorial = Factorial(5);
 Console.WriteLine(resultadoFactorial);
 ```
 
+#### Salida
+
+![alt text](image-18.png)
+
 ### 10. 
 ```c#
 void MostrarParametros(params object[] parametros)
@@ -808,6 +843,10 @@ void MostrarParametros(params object[] parametros)
 
 MostrarParametros(1, "texto", 3.14, true);
 ```
+
+#### Salida
+
+![alt text](image-19.png)
 
 ### 11. 
 ```c#
@@ -823,6 +862,10 @@ double area = CalcularArea(radio);
 Console.WriteLine($"El área del círculo con radio {radio} es: {area}");
 ```
 
+#### Salida
+
+
+
 ### 12. 
 ```c#
 bool EsPar(int num)
@@ -834,6 +877,10 @@ int num = 4;
 bool esPar = EsPar(num);
 Console.WriteLine($"El número {num} es par: {esPar}");
 ```
+
+#### Salida
+
+![alt text](image-20.png)
 
 ### 13. 
 ```c#
@@ -854,6 +901,10 @@ float velocidad = CalcularVelocidad(distancia, tiempo);
 Console.WriteLine($"La velocidad es: {velocidad} m/s");
 ```
 
+#### Salida
+
+![alt text](image-21.png)
+
 ### 14. 
 ```c#
 string ObtenerRgbHex(byte red, byte green, byte blue)
@@ -869,6 +920,10 @@ string rgbHex = ObtenerRgbHex(red, green, blue);
 
 Console.WriteLine($"El código RGB en formato hexadecimal es: {rgbHex}");   
 ```
+
+#### Salida
+
+![alt text](image-22.png)
 
 ### 15. 
 ```c#
@@ -895,6 +950,10 @@ static Person CreatePerson(string name, int age)
 }
 ```
 
+#### Salida
+
+![alt text](image-23.png)
+
 ### 16. 
 ```c#
 static Dictionary<int, string> ObtenerDepartamentosDeEmpleados()
@@ -918,6 +977,10 @@ foreach (var pair in departamentoDeEmpleados)
 }
 ```
 
+#### Salida
+
+![alt text](image-24.png)
+
 ### 17. 
 ```c#
 static void LogError(Exception ex)
@@ -936,6 +999,10 @@ catch (Exception ex)
     LogError(ex);
 }   
 ```
+
+#### Salida
+
+
 
 ### 18. 
 ```c#
@@ -958,6 +1025,10 @@ stack.Push(5);
 Console.WriteLine("Contenido original de la pila:");
 PrintStack(stack);
 ```
+
+#### Salida
+
+![alt text](image-25.png)
 
 ### 19. 
 ```c#
@@ -998,6 +1069,10 @@ Console.WriteLine("\nContenido de la cola después del procesamiento (debería e
 PrintQueue(queue);
 ```
 
+#### Salida
+
+
+
 ### 20. 
 ```c#
 static T EncontrarMaximo<T>(T[] items) where T : IComparable<T>
@@ -1029,6 +1104,10 @@ string maxString = EncontrarMaximo(stringArray);
 Console.WriteLine($"El valor máximo en el arreglo de cadenas es: {maxString}");
 ```
 
+#### Salida
+
+![alt text](image-26.png)
+
 ## Conclusiones
 
 1. Practicar la lógica ayuda a mejorar la capacidad de análisis y síntesis, esenciales para resolver problemas de programación.
@@ -1036,4 +1115,3 @@ Console.WriteLine($"El valor máximo en el arreglo de cadenas es: {maxString}");
 2. Comprender conceptos teóricos como estructuras de datos, algoritmos y principios de diseño de software permite a los programadores que su código sea actualizable, escalable y comprensible para otros desarrolladores.
 
 3. Las buenas prácticas, como el uso de comentarios claros, la escritura de código limpio y correcta nomenclatura, mejoran la legibilidad y mantenibilidad del código. 
-

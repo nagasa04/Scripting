@@ -54,7 +54,7 @@ using System.Collections.Generic;
                 case 7: //CrearMensaje
                     Console.WriteLine("Crear Mensaje");
 
-                    string mensaje = CrearMensaje(saludo: "Hola", nombre: "Emanuel");
+                    string mensaje = CrearMensaje(saludo: "Hola", nombre: "Valentin");
                     Console.WriteLine(mensaje);
                     break;
                 case 8: //ListaNumeros
