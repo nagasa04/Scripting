@@ -8,15 +8,15 @@
         Console.WriteLine(resultadoFactorial);
     }
 
-    int factorial(float n)
+    static int Factorial(int n)
     {
         if (n == 0)
         {
-            console.WriteLine(1);
+            return 1;
         }
         else
         {
-            return n * Factorial(N - 1);
+            return n * Factorial(n - 1);
         }
     }
   }
