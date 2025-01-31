@@ -1,0 +1,14 @@
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/bin/Debug/net7.0/ComprobarPalindromoRecursivo
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/bin/Debug/net7.0/ComprobarPalindromoRecursivo.deps.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/bin/Debug/net7.0/ComprobarPalindromoRecursivo.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/bin/Debug/net7.0/ComprobarPalindromoRecursivo.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/bin/Debug/net7.0/ComprobarPalindromoRecursivo.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/refint/ComprobarPalindromoRecursivo.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ComprobarPalindromoRecursivo.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio15/obj/Debug/net7.0/ref/ComprobarPalindromoRecursivo.dll

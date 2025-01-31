@@ -1,0 +1,14 @@
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/bin/Debug/net7.0/ReemplazarNumerosNegativosMatriz
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/bin/Debug/net7.0/ReemplazarNumerosNegativosMatriz.deps.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/bin/Debug/net7.0/ReemplazarNumerosNegativosMatriz.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/bin/Debug/net7.0/ReemplazarNumerosNegativosMatriz.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/bin/Debug/net7.0/ReemplazarNumerosNegativosMatriz.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/refint/ReemplazarNumerosNegativosMatriz.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ReemplazarNumerosNegativosMatriz.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio6/obj/Debug/net7.0/ref/ReemplazarNumerosNegativosMatriz.dll

@@ -1,0 +1,42 @@
+/workspaces/Taller1_Scripting/Taller1/bin/Debug/net7.0/Taller1
+/workspaces/Taller1_Scripting/Taller1/bin/Debug/net7.0/Taller1.deps.json
+/workspaces/Taller1_Scripting/Taller1/bin/Debug/net7.0/Taller1.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller1/bin/Debug/net7.0/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/bin/Debug/net7.0/Taller1.pdb
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/refint/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.pdb
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/Taller1.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller1/obj/Debug/net7.0/ref/Taller1.dll
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.dll
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/refint/Taller1.dll
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.pdb
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/bin/Debug/net7.0/Taller1
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/bin/Debug/net7.0/Taller1.deps.json
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/bin/Debug/net7.0/Taller1.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/bin/Debug/net7.0/Taller1.dll
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/bin/Debug/net7.0/Taller1.pdb
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/Taller1.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller 1/Ejercicio1/obj/Debug/net7.0/ref/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/bin/Debug/net7.0/Taller1
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/bin/Debug/net7.0/Taller1.deps.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/bin/Debug/net7.0/Taller1.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/bin/Debug/net7.0/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/bin/Debug/net7.0/Taller1.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/refint/Taller1.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/Taller1.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio1/obj/Debug/net7.0/ref/Taller1.dll

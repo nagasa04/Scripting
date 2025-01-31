@@ -1,0 +1,14 @@
+/workspaces/Taller1_Scripting/Ejercicio7/bin/Debug/net7.0/Ejercicio7
+/workspaces/Taller1_Scripting/Ejercicio7/bin/Debug/net7.0/Ejercicio7.deps.json
+/workspaces/Taller1_Scripting/Ejercicio7/bin/Debug/net7.0/Ejercicio7.runtimeconfig.json
+/workspaces/Taller1_Scripting/Ejercicio7/bin/Debug/net7.0/Ejercicio7.dll
+/workspaces/Taller1_Scripting/Ejercicio7/bin/Debug/net7.0/Ejercicio7.pdb
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.dll
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/refint/Ejercicio7.dll
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.pdb
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/Ejercicio7.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Ejercicio7/obj/Debug/net7.0/ref/Ejercicio7.dll

@@ -1,0 +1,14 @@
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/bin/Debug/net7.0/ImplementarFirmas
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/bin/Debug/net7.0/ImplementarFirmas.deps.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/bin/Debug/net7.0/ImplementarFirmas.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/bin/Debug/net7.0/ImplementarFirmas.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/bin/Debug/net7.0/ImplementarFirmas.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/refint/ImplementarFirmas.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ImplementarFirmas.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio16/obj/Debug/net7.0/ref/ImplementarFirmas.dll

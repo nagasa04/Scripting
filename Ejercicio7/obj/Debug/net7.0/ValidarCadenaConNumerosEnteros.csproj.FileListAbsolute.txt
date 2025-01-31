@@ -1,0 +1,14 @@
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/bin/Debug/net7.0/ValidarCadenaConNumerosEnteros
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/bin/Debug/net7.0/ValidarCadenaConNumerosEnteros.deps.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/bin/Debug/net7.0/ValidarCadenaConNumerosEnteros.runtimeconfig.json
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/bin/Debug/net7.0/ValidarCadenaConNumerosEnteros.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/bin/Debug/net7.0/ValidarCadenaConNumerosEnteros.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/refint/ValidarCadenaConNumerosEnteros.dll
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.pdb
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ValidarCadenaConNumerosEnteros.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Taller1/Ejercicio7/obj/Debug/net7.0/ref/ValidarCadenaConNumerosEnteros.dll

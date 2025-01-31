@@ -1,0 +1,14 @@
+/workspaces/Taller1_Scripting/Ejercicio16/bin/Debug/net7.0/Ejercicio16
+/workspaces/Taller1_Scripting/Ejercicio16/bin/Debug/net7.0/Ejercicio16.deps.json
+/workspaces/Taller1_Scripting/Ejercicio16/bin/Debug/net7.0/Ejercicio16.runtimeconfig.json
+/workspaces/Taller1_Scripting/Ejercicio16/bin/Debug/net7.0/Ejercicio16.dll
+/workspaces/Taller1_Scripting/Ejercicio16/bin/Debug/net7.0/Ejercicio16.pdb
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.AssemblyInfoInputs.cache
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.AssemblyInfo.cs
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.csproj.CoreCompileInputs.cache
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.dll
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/refint/Ejercicio16.dll
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.pdb
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/Ejercicio16.genruntimeconfig.cache
+/workspaces/Taller1_Scripting/Ejercicio16/obj/Debug/net7.0/ref/Ejercicio16.dll
